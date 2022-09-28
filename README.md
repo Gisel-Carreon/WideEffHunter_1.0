@@ -27,7 +27,7 @@ INSTALLATION INSCRUCTIONS
 
 DESCRIPTION
 
-WideEffhunter produces ab initio predictions of canonical and non-canonical effectors proteins using as an input the whole proteome.The method uses a effectors-related domains and motifs as well homology with know elucidated effectors.
+WideEffHunter produces ab initio predictions of canonical and non-canonical effectors proteins using as an input the whole proteome.The method uses a effectors-related domains and motifs as well homology with know elucidated effectors.
 
 We hope that this code can become a plataform enabling multiple effector analyses for effector discovery.
 
